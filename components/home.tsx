@@ -106,8 +106,8 @@ const Home = ({
         >
           <AvatarTransition avatarUrl={avatarUrl} dogUrl={dogUrl} />
           <p className="text-sm md:text-medium">
-            Hey! I’m <span className="font-oleo text-2xl"> Cindia</span>, Hi! I'm Cindia, 
-            a Marketing student at the University of Washington (UW).
+            Hey! I am <span className="font-oleo text-2xl"> Cindia</span>, a
+            Marketing student at the University of Washington (UW). 
             Beyond studying branding and business strategies, 
             I have a deep passion for creating press-on nails (DIY nail art) 
             and sharing my designs online.
