@@ -106,11 +106,11 @@ const Home = ({
         >
           <AvatarTransition avatarUrl={avatarUrl} dogUrl={dogUrl} />
           <p className="text-sm md:text-medium">
-            Hey! I’m <span className="font-oleo text-2xl"> Eric</span>, a
-            software engineer with a knack for AI, hailing from UCLA and Purdue.
-            Currently, I’m building a cool marketing AI agent. My world revolves
-            around web development, deep learning, and data science. And yes, I
-            have an adorable dog named Bert!
+            Hey! I’m <span className="font-oleo text-2xl"> Cindia</span>, Hi! I'm Cindia, 
+            a Marketing student at the University of Washington (UW).
+            Beyond studying branding and business strategies, 
+            I have a deep passion for creating press-on nails (DIY nail art) 
+            and sharing my designs online.
           </p>
           <DockDemo resumeUrl={resumeUrl} />
         </div>
