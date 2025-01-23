@@ -3,7 +3,7 @@ import { getPhotoUrl, listPhotos } from "@/firebase/db/photo";
 
 export default async function App() {
   const photosPromise = listPhotos("photos");
-  const avatarUrlPromise = ("public/mini-dark.jpg");
+  const avatarUrlPromise = ("mini-dark.jpg");
   const dogUrlPromise = getPhotoUrl("avatar/dog.jpg");
   const actionImageUrlPromise = getPhotoUrl("projects/actions.jpg");
   const webagentUrlPromise = getPhotoUrl("projects/webagent.jpg");
